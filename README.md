@@ -8,7 +8,7 @@ to sacrifice himself later and save the universe
 
 Skills: C, SDL2, Makefile, Game, Terminal, Unix
 
-<<<<<<< HEAD
+
 # To bild:
 - clone the repo
 - go to the root dir
