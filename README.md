@@ -8,10 +8,11 @@ to sacrifice himself later and save the universe
 
 Skills: C, SDLS, Makefile, Game, Terminal, Unix
 
+<<<<<<< HEAD
 # To bild:
 - clone the repo
 - go to the root dir
-- run ./make
+- make
 - run ./endgame
 
 
@@ -26,3 +27,8 @@ Skills: C, SDLS, Makefile, Game, Terminal, Unix
 <a href="https://github.com/dufrane/end_game" target="_blank">
   <img src="https://github.com/dufrane/end_game/blob/master/.git_images/screenshot3.png?raw=true">
 </a>
+=======
+
+
+
+>>>>>>> a8961171cc1182e2427755cb52a0ec70e140cf27
